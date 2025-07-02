@@ -2,9 +2,9 @@
 
 # 7/2/2025
 
-![[Screenshot 2025-07-02 at 6.05.05 PM.png]]
 > This is how inference tokens work
 
+![Inference token](https://imgur.com/a/bhx97Lf)
 ---
 ## #What_I_Learned: INTRO TO LLM'S; creating the Base Model
 
