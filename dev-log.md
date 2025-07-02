@@ -4,7 +4,7 @@
 
 > This is how inference tokens work
 
-![Inference token](blob:https://www.toppdf.co/9d6edb6f-e25c-4d98-a7be-7a76d232e65a)
+![Inference token](https://i.imgur.com/tUmtw7n.png)
 ---
 ## #What_I_Learned: INTRO TO LLM'S; creating the Base Model
 
